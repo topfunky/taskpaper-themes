@@ -36,7 +36,7 @@
 
   <!-- Project style. This section defines the styles that are applied to project lines. -->
   <color id="project" red="1.0" green="0.788" blue="0.137" alpha="1.0" />
-  <font id="project" name="Sentinel-Semibold" />
+  <font id="project" name="Sentinel-Book" size="24" />
   <characterStyle id="project" fontID="project" foregroundColorID="project" />
   <entryRule matchesQuery="type = &quot;project&quot;" lineCharacterStyleID="project" paragraphStyleID="base" />
 
